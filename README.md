@@ -113,22 +113,6 @@ A web-based attendance management system developed for educational institutions.
 
 ---
 
-## 🤖 InterviewAI (In Progress)
-
-An AI-powered interview preparation platform with:
-
-- Resume Analysis
-
-- AI Mock Interviews
-
-- Coding Practice
-
-- Company-wise Preparation
-
-- Dashboard
-
----
-
 # 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=rupeshar&show_icons=true&theme=tokyonight)
