@@ -12,20 +12,31 @@ Computer Science Engineering Student | Aspiring Full-Stack Developer | Open to I
 
 # 💫 About Me
 
-🎓 Computer Science Engineering Student
+I am a Computer Science Engineering student with a strong interest in Full Stack Web Development and Software Engineering. I enjoy building modern, responsive, and user-friendly web applications while continuously improving my technical and problem-solving skills.
 
-🏫 Sreyas Institute of Engineering and Technology
+My technical expertise includes HTML, CSS, JavaScript, React.js, Python, Firebase, Git, and GitHub. I have worked on projects such as responsive websites, portfolio websites, AI-based applications, and attendance management systems, which have strengthened my understanding of frontend development and software design.
 
-📍 Hyderabad, Telangana
+I am currently seeking opportunities where I can apply my knowledge, contribute to real-world projects, collaborate with experienced professionals, and continue growing as a software developer.
 
-💻 Passionate about Full-Stack Web Development
+Technical Skills:
 
-🚀 Currently learning React, Flask, Firebase and backend development
+• HTML5
 
-🌱 Building projects to improve my software development skills
+• CSS3
 
-🎯 Open to software development and web development internship opportunities
+• JavaScript
 
+• React.js
+
+• Python
+
+• Firebase
+
+• Git & GitHub
+
+• Responsive Web Design
+
+I am always open to connecting with developers, recruiters, and professionals to learn, collaborate, and explore new opportunities.
 ---
 
 # 🌐 Connect with Me
