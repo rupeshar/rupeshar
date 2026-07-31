@@ -134,12 +134,6 @@ A web-based attendance management system developed for educational institutions.
 
 ---
 
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=rupeshar&theme=tokyonight)
-
----
-
 # 📈 Profile Views
 
 ![](https://komarev.com/ghpvc/?username=rupeshar&color=blue)
