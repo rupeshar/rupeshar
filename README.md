@@ -20,7 +20,7 @@ Computer Science Engineering Student | Aspiring Full Stack Developer | Open to I
 
 💻 Passionate about Full Stack Web Development
 
-🚀 Currently learning React, Firebase, Flask and Backend Development
+🚀 Currently learning React, Flask, Firebase and backend development
 
 🌱 Building projects to improve my software development skills
 
