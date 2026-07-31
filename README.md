@@ -134,12 +134,6 @@ A web-based attendance management system developed for educational institutions.
 
 ---
 
-# 📈 Profile Views
-
-![](https://komarev.com/ghpvc/?username=rupeshar&color=blue)
-
----
-
 <h3 align="center">
 ⭐ Thanks for visiting my profile ⭐
 </h3>
