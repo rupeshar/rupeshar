@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhukya Rupesh Naik</h1>
 
 <h3 align="center">
-Computer Science Engineering Student | Aspiring Full Stack Developer | Open to Internship Opportunities
+Computer Science Engineering Student | Aspiring Full-Stack Developer | Open to Internship Opportunities
 </h3>
 
 <p align="center">
@@ -18,13 +18,13 @@ Computer Science Engineering Student | Aspiring Full Stack Developer | Open to I
 
 📍 Hyderabad, Telangana
 
-💻 Passionate about Full Stack Web Development
+💻 Passionate about Full-Stack Web Development
 
 🚀 Currently learning React, Flask, Firebase and backend development
 
 🌱 Building projects to improve my software development skills
 
-🎯 Looking for Internship opportunities
+🎯 Open to software development and web development internship opportunities
 
 ---
 
@@ -97,10 +97,11 @@ Computer Science Engineering Student | Aspiring Full Stack Developer | Open to I
 ## 🎓 Smart Attendance System
 
 A web-based attendance management system developed for educational institutions.
-
+🔗 [View Project Repository](https://github.com/rupeshar/SmartAttendanceSystem)
 ---
 
 ## 💼 OIBSIP Internship Projects
+🔗 [View Project Repository](https://github.com/rupeshar/OIBSIP)
 
 ✔ Calculator
 
